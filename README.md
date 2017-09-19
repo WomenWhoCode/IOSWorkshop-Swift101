@@ -6,3 +6,11 @@ You will need an App Store account to download Xcode, use [this link](https://it
 
 What we will build 👩‍💻:
 ------
+
+
+Contact:
+------
+If you have any questions or need any help you can reach out to:
+Women Who Code Barcelona: [barcelona@womenwhocode.com](mailto:barcelona@womenwhocode.com)
+Berta Devant: @bertadevant
+Niamh Power: @niamh-power
