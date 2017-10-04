@@ -33,6 +33,13 @@ Skills you will Learn 🎉:
 - Use Timers and Notifications
 - React to user touches
 
+Learn More 🤓:
+------
+To prepare for the workshop or to keep learning swift after it we recommend this guides
+
+- [RayWanderlich Basics swift using Playgrounds](https://www.raywenderlich.com/143771/swift-tutorial-part-1-expressions-variables-constants)
+- [HackingWithSwift Basics Guide from installing swift to Variables](https://www.hackingwithswift.com/read/0/1/how-to-install-xcode-and-create-a-playground)
+
 Contact:
 ------
 If you have any questions or need any help you can reach out to:
